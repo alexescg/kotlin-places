@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kotlin Places</string>
+    <string-array name="places">
+        <item>Restaurants</item>
+        <item>Store</item>
+        <item>Atm</item>
+        <item>Lodging</item>
+        <item>Parking</item>
+        <item>Gas station</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Pharmacy</item>
+    </string-array>
+</resources>
